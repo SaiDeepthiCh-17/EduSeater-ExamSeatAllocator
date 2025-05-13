@@ -65,7 +65,7 @@ The app should now be running at `http://localhost:5000/` 🚀
 ---
 
 ## 👥 Contributors  
-- **Cheerladinne Sai Deepthi** - [GitHub](https://github.com/SaiDeepthi17) | [LinkedIn](www.linkedin.com/in/sai-deepthi-cheerladinne)    
+- **Cheerladinne Sai Deepthi** - [GitHub](https://github.com/SaiDeepthi17) | [LinkedIn](https://www.linkedin.com/in/sai-deepthi-cheerladinne)    
 
 ---
 
